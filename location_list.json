@@ -1,0 +1,113 @@
+{
+  "state_list": [
+    {
+      "name": "Karnataka",
+      "district_list": [
+        {
+          "name": "Dakshina Kannada",
+          "taluk_list": [
+            {
+              "name": "Bantwala"
+            },
+            {
+              "name": "Beltangadi"
+            },
+            {
+              "name": "Kadaba"
+            },
+            {
+              "name": "Kotekar"
+            },
+            {
+              "name": "Mangalore"
+            },
+            {
+              "name": "Moodbidri"
+            },
+            {
+              "name": "Mulki"
+            },
+            {
+              "name": "Puttur"
+            },
+            {
+              "name": "Sulya"
+            },
+            {
+              "name": "Ullal"
+            }
+          ]
+        },
+        
+        {
+          "name": "Udupi",
+          "taluk_list": [
+            {
+              "name": "Brahmavara"
+            },
+            {
+              "name": "Byndoor"
+            },
+            {
+              "name": "Hebri"
+            },
+            {
+              "name": "Karkala"
+            },
+            {
+              "name": "Kaup"
+            },
+            {
+              "name": "Kundapura"
+            },
+            {
+              "name": "Udupi"
+            }
+          ]
+        },
+        
+        {
+          "name": "Uttara Kannada",
+          "taluk_list": [
+            {
+              "name": "Ankola"
+            },
+            {
+              "name": "Bhatkal"
+            },
+            {
+              "name": "Dandeli"
+            },
+            {
+              "name": "Haliyal"
+            },
+            {
+              "name": "Honnavar"
+            },
+            {
+              "name": "Joida"
+            },
+            {
+              "name": "Karwar"
+            },
+            {
+              "name": "Kumta"
+            },
+            {
+              "name": "Mundgod"
+            },
+            {
+              "name": "Siddapur"
+            },
+            {
+              "name": "Sirsi"
+            },
+            {
+              "name": "Yellapur"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
